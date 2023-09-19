@@ -25,7 +25,11 @@ document.getElementById("list").appendChild(newItem);
 // ********************** Exercise 4 ********************** //
 // Console log the value the user types into the input field.
 
-
+function addItem() {
+    let value = document.getElementById("newItem").value
+    
+    console.log(value)
+}
 
 // ********************** Exercise 4 ********************** //
 // Change the background color of the <div> element with the ID "container" to blue.
