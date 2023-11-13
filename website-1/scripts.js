@@ -22,9 +22,6 @@ ulElement.appendChild(newListItem);
 // ********************** Exercise 4 ********************** //
 // Console log the value the user types into the input field.
 
-console.log(userTypes);
-
-
 // ********************** Exercise 4 ********************** //
 // Change the background color of the <div> element with the ID "container" to blue.
 
